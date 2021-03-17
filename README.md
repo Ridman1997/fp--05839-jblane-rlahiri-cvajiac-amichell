@@ -2,10 +2,10 @@
 
 * **Online URL**: TODO
 * **Team members**:
-  * Contact person: TODO@andrew.cmu.edu
-  * TODO@andrew.cmu.edu
-  * TODO@andrew.cmu.edu
-  * TODO@andrew.cmu.edu
+  * Contact person: jblane@andrew.cmu.edu
+  * rlahiri@andrew.cmu.edu
+  * amichell@andrew.cmu.edu
+  * cvajiac@andrew.cmu.edu
 * **Track**: TODO (one of Narrative or Interactive Visualization/Application)
 
 ## Work distribution
