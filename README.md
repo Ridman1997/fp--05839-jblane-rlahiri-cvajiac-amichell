@@ -6,7 +6,7 @@
   * Riddhiman Lahiri, rlahiri@andrew.cmu.edu
   * Andre Michell, amichell@andrew.cmu.edu
   * Catalina Vajiac, cvajiac@andrew.cmu.edu
-* **Track**: TODO (one of Narrative or Interactive Visualization/Application)
+* **Track**: Interactive Application
 
 ## Work distribution
 
