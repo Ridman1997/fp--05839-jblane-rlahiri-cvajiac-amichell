@@ -2,10 +2,10 @@
 
 * **Online URL**: TODO
 * **Team members**:
-  * Contact person: jblane@andrew.cmu.edu
-  * rlahiri@andrew.cmu.edu
-  * amichell@andrew.cmu.edu
-  * cvajiac@andrew.cmu.edu
+  * Contact person: Janice Blane, jblane@andrew.cmu.edu
+  * Riddhiman Lahiri, rlahiri@andrew.cmu.edu
+  * Andre Michell, amichell@andrew.cmu.edu
+  * Catalina Vajiac, cvajiac@andrew.cmu.edu
 * **Track**: TODO (one of Narrative or Interactive Visualization/Application)
 
 ## Work distribution
