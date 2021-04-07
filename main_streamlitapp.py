@@ -9,17 +9,12 @@ import base64
 import collections
 from vega_datasets import data
 #random orange background color
-components.html(
-    """
-    <body style="background-color:#ffcc00"
-    </body>
-    """
-    )
+
 
 st.title("⭐Towards a Better Spark UI⭐")
 st.text("An Interactive Visualization")
 
-st.markdown("---")
+#st.markdown("---")
 st.markdown("_**Welcome!**_" )
 #st.markdown(" Stuff...and more stuff.")
 
@@ -47,7 +42,7 @@ def set_png_as_page_bg(png_file):
     st.markdown(page_bg_img, unsafe_allow_html=True)
     return
 st.set_page_config(layout="wide")
-st.title("A Better Spark User Interface")
+#st.title("A Better Spark User Interface")
 st.markdown("""
  * Use the menu at left to select data and set plot parameters
  * Your plots will appear below
@@ -107,6 +102,21 @@ st.write("** Display Data after Optimizations**")
 optimized=st.radio("",("Yes","No"))
 if optimized=="Yes":
     st.write(plot.properties(width=600,height=300))
+    
+#random orange background color
+#components.html(
+#    """
+#    <body style="background-color:#ffcc00"
+#    </body>
+#    """
+#    )
+
+#st.title("⭐Towards a Better Spark UI⭐")
+#st.text("An Interactive Visualization")
+
+#st.markdown("---")
+#st.markdown("_**Welcome!**_" )
+#st.markdown(" Stuff...and more stuff.")
 #colapsible grouping, only shows items one at a time
 #components.html(
 #    """
