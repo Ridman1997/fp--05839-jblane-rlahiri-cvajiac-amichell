@@ -66,7 +66,7 @@ components.html(
         </div>
       </div>
     </div>
-    """,
+    """
     height=500,
 )
 
