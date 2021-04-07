@@ -67,7 +67,7 @@ components.html(
       </div>
     </div>
     """
-    height=500,
+   # height=500
 )
 
 #---A search field to nowhere example -css makes the blue background---#
