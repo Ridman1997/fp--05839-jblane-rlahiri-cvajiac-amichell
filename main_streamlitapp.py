@@ -172,6 +172,3 @@ if optimized=="Yes":
 #icon("outdoor_grill") #use word list of google icons: https://fonts.google.com/icons
 #selected = st.text_input("", "This text input bar goes nowhere right now...")
 #button_clicked = st.button("OK")
-
-#-----------------------------------------_
-
